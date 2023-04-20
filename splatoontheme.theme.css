@@ -10,14 +10,13 @@
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
-  --success-color: #43b581;
-  --danger-color: #982929;
-  --url-color: var(--main-color);
+  --main-color: #0077FF;
+  --hover-color: #123761;
+  --success-color: #ABE5CB;
+  --danger-color: #5C0808;
+  --url-color: #D3D3D3;
   --background-image: url('https://images.ctfassets.net/xuwlxvgj0hyl/1hCTTABdIgMkWUSvRLPLty/35db2046012f642a7d562d6765548507/1840_WN_Splatfest-2.jpg');
   --background-shading: 100%;
   --background-position: center;
@@ -84,19 +83,6 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --rs-small-spacing: 2px;
-  --rs-medium-spacing: 2px;
-  --rs-large-spacing: 2px;
-  --rs-small-width: 2px;
-  --rs-medium-width: 2px;
-  --rs-large-width: 2px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
-  --rs-phone-visible: block;
 }
 
 /* Any custom CSS below here */
