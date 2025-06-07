@@ -1,0 +1,32 @@
+{
+    "name": "Splatoon",
+    "description": "A theme generated with VendettaThemeGen!",
+    "authors": [
+        {
+            "name": "Lmutt090",
+            "id": ""
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "https://wallpapers.com/images/hd/hd-splatoon-team-squid-background-yhae6yt0hr5xw0y2.jpg"
+        ],
+        "TEXT_NORMAL": [
+            ""
+        ],
+        "INTERACTIVE_NORMAL": [
+            ""
+        ],
+        "BACKGROUND_TERTIARY": [
+            "https://wallpapers.com/images/hd/hd-splatoon-team-squid-background-yhae6yt0hr5xw0y2.jpg"
+        ],
+        "CHANNEL_BACKGROUND": [
+            "https://wallpapers.com/images/hd/hd-splatoon-team-squid-background-yhae6yt0hr5xw0y2.jpg"
+        ]
+    },
+    "background": {
+        "blur": "",
+        "url": "https://wallpapers.com/images/hd/hd-splatoon-team-squid-background-yhae6yt0hr5xw0y2.jpg"
+    },
+    "spec": 2
+}
